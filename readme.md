@@ -13,6 +13,10 @@ A Free open source template based on nature and yoga one pager websit tepmlate
 
 
 
+## Click here to see the template
+```html 
+    https://ninjasammyy.github.io/Responsive_Yoga_template/.
+
 
 
 
